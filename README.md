@@ -80,7 +80,7 @@ frontend/
 ### Backend Setup
 1. **Clone the repository**:
    ```sh
-   git clone <your-repo-url>
+   git clone <repo-url>
    cd backend
    ```
 2. **Install dependencies**:
